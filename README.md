@@ -1,3 +1,3 @@
-#TerkupFX_Now
+# TerkupFX_Now
 
 Térkúp Számítása JavaFX-el, osztályokra bontva. 
